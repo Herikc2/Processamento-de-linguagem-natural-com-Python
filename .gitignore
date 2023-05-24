@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+
+data/news-of-the-site-folhauol
+data/news-of-the-site-folhauol/*
+data/news_2016*
+
+docs/kaggle.json
